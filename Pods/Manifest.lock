@@ -1,0 +1,68 @@
+PODS:
+  - Alamofire (4.2.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - AlamofireReactive (2.0.0):
+    - Alamofire (= 4.2)
+    - ReactiveKit (~> 3.1)
+  - Bond (6.2.6):
+    - Diff (~> 0.4)
+    - ReactiveKit (~> 3.5.3)
+  - CWStatusBarNotification (2.3.5)
+  - Diff (0.5.3)
+  - Material (2.6.3):
+    - Material/Core (= 2.6.3)
+  - Material/Core (2.6.3)
+  - MIFab (1.0)
+  - PageMenu (2.0.0)
+  - PKHUD (4.2.2)
+  - PWSwitch (1.0.1)
+  - Reachability (3.2)
+  - ReactiveKit (3.5.4)
+  - Realm (2.8.0):
+    - Realm/Headers (= 2.8.0)
+  - Realm/Headers (2.8.0)
+  - RealmSwift (2.8.0):
+    - Realm (= 2.8.0)
+  - SwiftKeychainWrapper (3.0.1)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AlamofireReactive
+  - Bond
+  - CWStatusBarNotification
+  - Material (~> 2.0)
+  - MIFab (~> 1.0)
+  - PageMenu
+  - PKHUD
+  - PWSwitch
+  - Reachability
+  - ReactiveKit
+  - RealmSwift
+  - SwiftKeychainWrapper
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  AlamofireReactive: 1342e3ae546d02af21d370eadd7c34b7308cc473
+  Bond: 0d7a52e9aec644c3b4985ceeb224a402b1efd691
+  CWStatusBarNotification: 3d2738b25c3207f60cc50201388d3c96182545ff
+  Diff: befa1d19c32726b2b36ce915d98793e2fbde8dcc
+  Material: af607a7ec0e9978ef85cf189a3d8ceeeb650400f
+  MIFab: 750e5b463489e6b51b3cc2dec2c7e975487bbb60
+  PageMenu: 9c38fd7e0d9ef4b1408320f55bb907bbc0e538dc
+  PKHUD: 9a3599e04d57676ec14746c40e423a52fb6588c0
+  PWSwitch: fa278086d5451cde5ad11051d2bdccaa7ec78a30
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  ReactiveKit: 4fc2a23db33777358abe93453ece3a69011adeec
+  Realm: 929243ad2b618b3232e70658bedc61110e7563f1
+  RealmSwift: 5b7079b891f2833d1849294161ba3e092bbda3f6
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 20c80c8aa93ec1d667851f91938ad9b7b3644fc0
+
+COCOAPODS: 1.2.1
